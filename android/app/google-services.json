@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758455736918",
+    "project_id": "unigymbd",
+    "storage_bucket": "unigymbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758455736918:android:2ae74c2b2422642fd039f7",
+        "android_client_info": {
+          "package_name": "com.unigym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOWU2d7e9dqVnAnsB-qAj-dFUlfSA_DKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
